@@ -1,0 +1,3 @@
+# St. Thomas code club
+
+Just some friend's learning how to code...
